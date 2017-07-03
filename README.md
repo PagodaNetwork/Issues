@@ -1,4 +1,4 @@
-# issues
+# Issues
 Network issues pertaining to the development of Pagoda Network. 
 
 When creating issues, please including the following:-
